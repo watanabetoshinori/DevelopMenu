@@ -1,0 +1,10 @@
+{
+    "extension_name": {
+        "message": "Develop Menu",
+        "description": "The display name for the extension."
+    },
+    "extension_description": {
+        "message": "This extension adds a developer menu to Mobile Safari.",
+        "description": "Description of the extension."
+    }
+}
